@@ -1,2 +1,2 @@
 # Hello-World
-# My goal is to learn something about bioinformatics, to catch up with the world.
+# My goal is to learn something about bioinformatics, to catch up with the world furiously developing technology.
